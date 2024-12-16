@@ -1,0 +1,14 @@
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PI.exe
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PI.deps.json
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PI.runtimeconfig.json
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PI.dll
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PI.pdb
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.AssemblyInfoInputs.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.AssemblyInfo.cs
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.csproj.CoreCompileInputs.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.dll
+C:\PI\PI\PI\PI\obj\Debug\net8.0\refint\PI.dll
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.pdb
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.genruntimeconfig.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\ref\PI.dll
