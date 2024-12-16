@@ -1,0 +1,15 @@
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PITEST.exe
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PITEST.deps.json
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PITEST.runtimeconfig.json
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PITEST.dll
+C:\PI\PI\PI\PI\bin\Debug\net8.0\PITEST.pdb
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.AssemblyInfoInputs.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.AssemblyInfo.cs
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.csproj.CoreCompileInputs.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.sourcelink.json
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.dll
+C:\PI\PI\PI\PI\obj\Debug\net8.0\refint\PITEST.dll
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.pdb
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PITEST.genruntimeconfig.cache
+C:\PI\PI\PI\PI\obj\Debug\net8.0\ref\PITEST.dll

@@ -1,8 +1,8 @@
-﻿namespace PI
+﻿namespace PITEST
 {
     using System;
 
-    class Program
+    public class Program
     {
         static void Main()
         {
@@ -17,6 +17,11 @@
             Console.Write("c: ");
             double c = double.Parse(Console.ReadLine());
 
+            CheckDiscr(a, b, c);
+        }
+
+        public static void CheckDiscr(double a, double b, double c)
+        {
             // Проверка, что a не равно 0
             if (a == 0)
             {
@@ -40,7 +45,8 @@
                 // Один корень
                 double x = -b / (2 * a);
                 Console.WriteLine($"Корень уравнения: x = {x}");
-                CheckVieta(x, x, a, b, c); // x1 и x2 одинаковы
+                CheckVieta(x, x, a, b, c);
+
             }
             else
             {
@@ -49,7 +55,7 @@
             }
         }
 
-        static void CheckVieta(double x1, double x2, double a, double b, double c)
+        public static bool CheckVieta(double x1, double x2, double a, double b, double c)
         {
             double sum = x1 + x2;
             double product = x1 * x2;
@@ -69,7 +75,11 @@
             {
                 Console.WriteLine("Теорема Виета не выполняется.");
             }
+
+            return sum == -b / a && product == c/a;
         }
+
+
     }
     //Test trigger 2
 }

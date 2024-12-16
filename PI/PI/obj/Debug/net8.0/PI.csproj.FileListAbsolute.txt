@@ -12,3 +12,4 @@ C:\PI\PI\PI\PI\obj\Debug\net8.0\refint\PI.dll
 C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.pdb
 C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.genruntimeconfig.cache
 C:\PI\PI\PI\PI\obj\Debug\net8.0\ref\PI.dll
+C:\PI\PI\PI\PI\obj\Debug\net8.0\PI.sourcelink.json

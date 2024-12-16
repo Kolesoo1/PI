@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PI\\PI\\PI\\PI\\PI.csproj",
-      "projectName": "PI",
-      "projectPath": "C:\\PI\\PI\\PI\\PI\\PI.csproj",
+      "projectUniqueName": "C:\\PI\\PI\\PI\\PI\\PITEST.csproj",
+      "projectName": "PITEST",
+      "projectPath": "C:\\PI\\PI\\PI\\PI\\PITEST.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
       "outputPath": "C:\\PI\\PI\\PI\\PI\\obj\\",
       "projectStyle": "PackageReference",
