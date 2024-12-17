@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PI\\PI\\PI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F6B8227-F3C8-4C08-AA2F-8F3F9B70C2E1}|TestProject\\TestProject.csproj|c:\\pi\\pi\\pi\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B8227-F3C8-4C08-AA2F-8F3F9B70C2E1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4B4722B-3E77-415E-ADA7-5C9D3EC7A63A}|PI\\PITEST.csproj|c:\\pi\\pi\\pi\\pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4B4722B-3E77-415E-ADA7-5C9D3EC7A63A}|PI\\PITEST.csproj|solutionrelative:pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\PI\\PI\\PI\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\PI\\PI\\PI\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:18:04.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PI\\PI\\PI\\PI\\Program.cs",
               "RelativeDocumentMoniker": "PI\\Program.cs",
               "ToolTip": "C:\\PI\\PI\\PI\\PI\\Program.cs",
               "RelativeToolTip": "PI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T17:36:09.279Z",
               "EditorCaption": ""

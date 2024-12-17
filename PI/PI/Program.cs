@@ -12,6 +12,12 @@
             double b = 5;
             double c = 2;
 
+            CheckDiskr(2, 5, 2);
+            CheckDiskr(3, 9, 6);
+        }
+
+        public static void CheckDiskr(double a, double b, double c)
+        {
             // Проверка, что a не равно 0
             if (a == 0)
             {
@@ -43,8 +49,9 @@
                 // Нет действительных корней
                 Console.WriteLine("Уравнение не имеет действительных корней.");
             }
-        }
 
+
+        }
         public static bool CheckVieta(double x1, double x2, double a, double b, double c)
         {
             double sum = x1 + x2;
@@ -66,7 +73,7 @@
                 Console.WriteLine("Теорема Виета не выполняется.");
             }
 
-            return sum == -b / a && product == c/a;
+            return sum == -b / a && product == c / a;
         }
 
 
