@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PITEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+057ea51320606aedd0c2903331479d3587f01c71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793837397538311ca3afe6ece591765c3be77cba")]
 [assembly: System.Reflection.AssemblyProductAttribute("PITEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PITEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

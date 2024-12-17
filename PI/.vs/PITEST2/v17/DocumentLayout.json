@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E4B4722B-3E77-415E-ADA7-5C9D3EC7A63A}|PI\\PITEST.csproj|c:\\pi\\pi\\pi\\pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4B4722B-3E77-415E-ADA7-5C9D3EC7A63A}|PI\\PITEST.csproj|solutionrelative:pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9BF91A-DC9C-4AC7-BCF6-7E9E6F3ED5D2}|TestProject\\TestProject.csproj|c:\\pi\\pi\\pi\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B9BF91A-DC9C-4AC7-BCF6-7E9E6F3ED5D2}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\PI\\PI\\PI\\TestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\PI\\PI\\PI\\TestProject\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:15:17.954Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
