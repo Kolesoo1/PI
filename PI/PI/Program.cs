@@ -8,20 +8,10 @@
         {
             Console.WriteLine("Введите коэффициенты квадратного уравнения (ax^2 + bx + c = 0):");
 
-            Console.Write("a: ");
-            double a = double.Parse(Console.ReadLine());
+            double a = 2;
+            double b = 5;
+            double c = 2;
 
-            Console.Write("b: ");
-            double b = double.Parse(Console.ReadLine());
-
-            Console.Write("c: ");
-            double c = double.Parse(Console.ReadLine());
-
-            CheckDiscr(a, b, c);
-        }
-
-        public static void CheckDiscr(double a, double b, double c)
-        {
             // Проверка, что a не равно 0
             if (a == 0)
             {
